@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 function solucao(idade) {
   
   if (idade >= 18){
@@ -8,3 +9,14 @@ function solucao(idade) {
 }
 
 solucao(2)
+=======
+function solucao(idade) {
+  
+  if (idade >= 18){
+      console.log("PODE ENTRAR")
+    } else {
+        console.log("ACESSO NEGADO")
+    }
+}
+
+>>>>>>> Stashed changes
